@@ -1,0 +1,21 @@
+{
+  "name": "profile-page",
+  "version": "1.0.0",
+  "description": "A simple profile page project showcasing user information and social media links.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined yet.'"
+  },
+  "keywords": [
+    "profile",
+    "user",
+    "social media"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
